@@ -1,0 +1,15 @@
+{
+  "name": "oceans",
+  "version": "1.0.0",
+  "description": "Ocean's heart website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://vathox.github.io/oceans-heart-website",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
